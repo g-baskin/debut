@@ -9,6 +9,15 @@
         "show_vendor": false
       }
     },
+    "3b60df59-db3d-4707-9b96-af31ff32ad2f": {
+      "type": "rich-text",
+      "settings": {
+        "full_width": true,
+        "section_title": "SRG {{ product.title }}",
+        "text": "",
+        "text_size": "large"
+      }
+    },
     "main": {
       "type": "product-template",
       "blocks": {
@@ -94,6 +103,7 @@
   },
   "order": [
     "product-recommendations",
+    "3b60df59-db3d-4707-9b96-af31ff32ad2f",
     "main",
     "product-back-to-collection",
     "loox-product-reviews-app-section",
