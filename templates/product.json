@@ -83,12 +83,18 @@
       ],
       "settings": {
       }
+    },
+    "1629746450643786911": {
+      "type": "areviews-section",
+      "settings": {
+      }
     }
   },
   "order": [
     "product-recommendations",
     "main",
     "product-back-to-collection",
-    "loox-product-reviews-app-section"
+    "loox-product-reviews-app-section",
+    "1629746450643786911"
   ]
 }
